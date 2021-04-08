@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BasisCore.cpp.obj": [
+			"BasisCore.cpp.obj",
+			"ButtonWidget.cpp.obj",
+			"CharacterAnimInstance.cpp.obj",
+			"CharacterBase.cpp.obj",
+			"CharacterInterface.cpp.obj",
+			"FPSCharacter.cpp.obj",
+			"FPSSample_cCharacter.cpp.obj",
+			"GameInterface.cpp.obj",
+			"GunWeaponInterface .cpp.obj",
+			"HGameMode.cpp.obj",
+			"MyGameInstance.cpp.obj",
+			"ObjectManager.cpp.obj",
+			"Projecttile.cpp.obj",
+			"StaticActor.cpp.obj",
+			"TPSCharacterBase.cpp.obj",
+			"TPSPlayerController.cpp.obj",
+			"WeaponInterface.cpp.obj"
+		],
+		"Module.BasisCore.gen.cpp.obj": [
+			"BasisCore.init.gen.cpp.obj",
+			"CharacterAnimInstance.gen.cpp.obj",
+			"CharacterBase.gen.cpp.obj",
+			"CharacterInterface.gen.cpp.obj",
+			"FPSCharacter.gen.cpp.obj",
+			"GameInterface.gen.cpp.obj",
+			"GunWeaponInterface.gen.cpp.obj",
+			"HGameMode.gen.cpp.obj",
+			"MyGameInstance.gen.cpp.obj",
+			"ObjectManager.gen.cpp.obj",
+			"Projectile.gen.cpp.obj",
+			"StaticActor.gen.cpp.obj",
+			"TPSCharacterBase.gen.cpp.obj",
+			"TPSPlayerController.gen.cpp.obj",
+			"WeaponInterface.gen.cpp.obj"
+		]
+	}
+}

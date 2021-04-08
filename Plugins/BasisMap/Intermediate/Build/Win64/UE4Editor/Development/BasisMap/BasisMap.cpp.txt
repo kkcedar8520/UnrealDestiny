@@ -1,0 +1,2 @@
+D:\Unreal\Destiny\Destiny\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\Development\BasisMap\Definitions.BasisMap.h
+D:\Unreal\Destiny\Destiny\Plugins\BasisMap\Source\BasisMap\Public\BasisMap.h

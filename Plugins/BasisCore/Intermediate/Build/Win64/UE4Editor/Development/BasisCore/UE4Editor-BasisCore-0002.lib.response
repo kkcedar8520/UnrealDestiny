@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasisCore-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Destiny\Destiny\Intermediate\Build\Win64\DestinyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\Destiny\Destiny\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Module.BasisCore.cpp.obj"
+"D:\Unreal\Destiny\Destiny\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Module.BasisCore.gen.cpp.obj"
+"D:\Unreal\Destiny\Destiny\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Default.rc2.res"
+/OUT:"D:\Unreal\Destiny\Destiny\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\UE4Editor-BasisCore-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_BasisCore
